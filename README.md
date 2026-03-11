@@ -19,7 +19,7 @@
 # 1. Problem & Motivation
 
 ### What problem are you solving?
-Most people cannot properly track their calorie intake, which makes it difficult for them to achieve their goals of gaining or losing weight.
+Most people cannot properly track their calorie intakes, which makes it difficult for them to achieve their goals of gaining or losing weight.
 
 ### Who experiences it and why is it painful now?
 Anyone who wants to monitor their eating habits may struggle to track calories accurately and consistently.

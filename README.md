@@ -1,3 +1,4 @@
+
 # Food Secret
 
 ## Project Charter
@@ -10,6 +11,8 @@
 - Arhan Gezer
 - Cihan Kudret Malçok
 - Ceyda Süsal
+- Erol Yüksel
+
 
 ---
 
@@ -24,8 +27,6 @@ Anyone who wants to monitor their eating habits may struggle to track calories a
 ### What is the context?
 This issue occurs in daily life when people try to manage their nutrition but lack proper tools to track meals and calorie intake.
 
-### Intended Impact
-If solved, people will become more aware of what they eat and will be able to manage their nutrition more effectively.
 
 ---
 

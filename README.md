@@ -1,111 +1,135 @@
-
-# Food Secret
-
-## Project Charter
+# Food Secret  
+## Project Charter  
 
 **Project Name:** Food Secret  
 **Team Name:** Ctrl + Eat  
-**Date:** 05.02.2026  
-
-### Team Members
-- Arhan Gezer
-- Cihan Kudret Malçok
-- Ceyda Süsal
-- Erol Yüksel
-
+**Date:** 25.03.2026  
 
 ---
 
-# 1. Problem & Motivation
-
-### What problem are you solving?
-Most people cannot properly track their calorie intakes, which makes it difficult for them to achieve their goals of gaining or losing weight.
-
-### Who experiences it and why is it painful now?
-Anyone who wants to monitor their eating habits may struggle to track calories accurately and consistently.
-
-### What is the context?
-This issue occurs in daily life when people try to manage their nutrition but lack proper tools to track meals and calorie intake.
-
+## Team Members  
+- Arhan Gezer  
+- Cihan Kudret Malçok  
+- Ceyda Süsal  
+- Erol Yüksel  
 
 ---
 
-# 2. Target Users & Stakeholders
+## 1. Problem & Motivation  
 
-## Primary Users
+### What problem are you solving?  
+Many individuals cannot accurately track their calorie intake, which makes it difficult for them to achieve their goals such as losing or gaining weight.
+
+### Who experiences it and why is it painful now?  
+People who want to manage their nutrition struggle due to lack of awareness about what they eat and lack of simple tools to track their calorie intake consistently.
+
+### What is the context?  
+This issue occurs in daily life when individuals consume meals without knowing their nutritional values, making it difficult to maintain a healthy lifestyle.
+
+---
+
+## 2. Target Users & Stakeholders  
+
+### Primary Users  
 
 **Overweight or underweight individuals**  
-- Goal: Gain or lose weight by tracking calorie intake.
+- Goal: Gain or lose weight by tracking calorie intake  
 
 **Busy individuals**  
-- Goal: Maintain a healthy eating routine despite time limitations.
-
-## Other Stakeholders
-
-**People searching for healthy recipes**  
-- Interest: Discover new healthy meal ideas.
-
-**People with limited time to cook**  
-- Interest: Order meals from restaurants that provide the recipes they want.
+- Goal: Maintain a healthy eating routine with limited time  
 
 ---
 
-# 3. Scope
+### Secondary Stakeholders  
 
-The Food Secret platform will provide the following features:
+**Recipe explorers**  
+- Interest: Discover new healthy meals  
 
-- Users can track the calories of their own created recipes.
-- Users can discover and follow recipes created by other users.
-- Users can order meals based on selected recipes and have them delivered to their homes.
+**Food delivery users**  
+- Interest: Order meals easily instead of cooking  
 
----
-
-# 4. Resources Required
-
-- Recipe databases and calorie information for foods collected from online sources.
-- Collaboration or integration with food delivery platforms such as **Yemeksepeti** and **Migros Yemek**.
+**External platforms (e.g., Yemeksepeti, Migros Yemek)**  
+- Interest: Provide integrated food services  
 
 ---
 
-# 5. Timeline
+## 3. Scope  
 
-| Phase | Time |
-|------|------|
-| Planning | Week 1 – 2 |
-| Research | Week 2 – 3 |
-| Development | Week 3 – 9 |
-| Testing | Week 9 – 12 |
-| Refining | Week 12 – 13 |
-| Launch | Week 13 – 14 |
+The Food Secret platform includes the following features:
+
+- Users can track their daily calorie intake  
+- Users can create and explore recipes  
+- Users can order meals through external delivery services  
 
 ---
 
-# 6. Potential Risks & Dependencies
+## 4. Resources Required  
 
-- Dependency on external companies for food delivery services.
-- Presence of strong competitors in the nutrition and meal tracking market.
+- Nutrition and calorie data from online sources or APIs  
+- Integration with food delivery platforms (e.g., Yemeksepeti, Migros Yemek)  
+- Development tools and frameworks for web application  
 
 ---
 
-# 7. Product Vision
+## 5. Timeline  
 
-**FOR** people who want to manage their nutrition and track calorie intake  
-**WHO** struggle to maintain healthy eating habits due to lack of awareness and time constraints  
+| Phase        | Time          |
+|--------------|--------------|
+| Planning     | Week 1 – 2   |
+| Research     | Week 2 – 3   |
+| Development  | Week 3 – 9   |
+| Testing      | Week 9 – 12  |
+| Refining     | Week 12 – 13 |
+| Launch       | Week 13 – 14 |
+
+---
+
+## 6. Potential Risks & Dependencies  
+
+- Dependency on third-party services for food delivery  
+- Competition with existing calorie tracking applications  
+- Limited access to reliable nutritional data  
+
+---
+
+## 7. Product Vision  
+
+**FOR** individuals who want to manage their nutrition and track calorie intake  
+**WHO** struggle due to lack of awareness and time constraints  
 
 **THE Food Secret** is a web-based nutrition and meal management platform  
 
-**THAT** enables users to:
-- Track calorie intake
-- Create and follow recipes
+**THAT enables users to:**  
+- Track calorie intake  
+- Create and explore recipes  
 - Order meals from selected restaurants  
 
-This helps users build sustainable and healthy eating routines.
+This helps users build sustainable and healthy eating habits.  
 
-**UNLIKE** traditional calorie tracking apps or recipe websites,  
+**UNLIKE** traditional calorie tracking apps or recipe platforms  
 
-**OUR PRODUCT** combines:
+**OUR PRODUCT combines:**  
 - Personalized calorie tracking  
 - Community-driven recipes  
-- Integrated food delivery support  
+- Integrated food delivery  
 
-in a single, accessible platform.
+in a single, user-friendly system.  
+
+---
+
+## 8. Agile Planning (Jira)  
+
+### Product Backlog  
+User stories are created and prioritized to represent system features.
+
+### Sprint Planning  
+
+At least one sprint is defined and user stories are assigned:
+
+**Sprint 1:**  
+- User login system  
+- Add food entry  
+- Track calories  
+- View daily summary  
+
+This demonstrates the sprint planning process where selected backlog items are assigned to a sprint.

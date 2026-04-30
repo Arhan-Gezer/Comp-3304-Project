@@ -42,8 +42,8 @@ jobs:
 
   deploy:
     name: Deploy to Render
-    needs: test
-    # Sadece main branch'ine push yapıldığında ve testler geçtiğinde çalışır
+    # BURAYI DEĞİŞTİRİYORUZ: 'test' yerine 'lint' yazıyoruz
+    needs: lint 
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:

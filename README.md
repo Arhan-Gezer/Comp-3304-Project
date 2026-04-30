@@ -9,7 +9,7 @@
 
 ## Team Members  
 - Arhan Gezer  
-- Cihan Kudret Malçok  
+- Cihan Kudret Malcok  
 - Ceyda Süsal  
 - Erol Yüksel  
 
